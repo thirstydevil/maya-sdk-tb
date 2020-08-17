@@ -7,7 +7,7 @@
 
 ### You can can set the driven value quickly with CTRL double click modifier.
 
-![UI](https://github.com/thirstydevil/maya-sdk-tb/blob/master/images/ui-example.png)
+![UI](https://github.com/thirstydevil/maya-sdk-tb/blob/master/images/set-value-double-click.png)
 
 ### Requires
 
