@@ -12,4 +12,4 @@
 ### Requires
 
 * Maya 2016+
-* Qt [url]https://github.com/mottosso/Qt.py[/url]
+* [Qt](https://github.com/mottosso/Qt.py)
