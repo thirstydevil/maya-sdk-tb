@@ -1,4 +1,6 @@
-## Maya Set Driven Key Alternative UI
+# Maya Set Driven Key Alternative UI
+
+A tool to replace Maya's SDK window purely because of the issue with Maya's current long hang opening the SDK window on blendshapes with lots of blends
 
 ### Lets you select a Driver and a Driven object
 
